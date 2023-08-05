@@ -1,4 +1,4 @@
-## Youtube-Trending-Videos
+## Youtube-Data-Analysis
 
 This project analyzes YouTube trending video data from major English-speaking countries. The data set includes information about likes, dislikes, views, comments, and categories. The project uses data wrangling, text mining, and time series analysis to address several business questions related to YouTube trending videos.  
 
